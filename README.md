@@ -9,4 +9,6 @@ Let’s see what commands you can use to show disk info in Linux.
 
 ```1.df ``` 
 df lists the actual “disk space usage” and it can give you information about what hard disks (or current disk space) is being used in the entire system.
-The most common way to use it is with the -h argument which means “human readable”
+The most common way to use it is with the -h argument which means “human readable”.Usage
+
+```$df -h ```
