@@ -12,3 +12,5 @@ df lists the actual “disk space usage” and it can give you information about
 The most common way to use it is with the -h argument which means “human readable”.Usage
 
 ```$df -h ```
+
+#```2. fdisk```
